@@ -38,7 +38,7 @@ Cambodia,283,0
 Cameroon,21160,420
 Canada,180179,9608
 Cayman Islands,221,1
-Central African Republic,4854,62
+Central African Rep.,4854,62
 Chad,1304,92
 Chile,481371,13318
 China,91333,4746
@@ -65,7 +65,7 @@ El Salvador,30196,890
 Equatorial Guinea,5063,83
 Eritrea,414,0
 Estonia,3865,68
-Eswatini,5669,113
+eSwatini,5669,113
 Ethiopia,84295,1287
 Falkland Islands (Malvinas),13,0
 Faroe Islands,477,0
@@ -113,7 +113,7 @@ Kiribati,0,0
 Kosovo[1],16136,637
 Kuwait,111116,658
 Kyrgyzstan,49528,1090
-Lao People's Democratic Republic,23,0
+Laos,23,0
 Latvia,2670,40
 Lebanon,53568,459
 Lesotho,1767,40
@@ -233,4 +233,4 @@ Wallis and Futuna,0,0
 Yemen,2056,596
 Zambia,15458,336
 Zimbabwe,8011,230
-"occupied Palestinian territory, including east Jerusalem",55556,445
+Palestine,55556,445
