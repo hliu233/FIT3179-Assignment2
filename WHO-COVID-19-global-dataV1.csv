@@ -29,7 +29,7 @@ Bosnia and Herzegovina,30645,921
 Botswana,3219,18
 Brazil,5082637,150198
 British Virgin Islands,71,1
-Brunei Darussalam,146,3
+Brunei,146,3
 Bulgaria,24402,892
 Burkina Faso,2241,60
 Burundi,525,1
@@ -53,8 +53,8 @@ Curaçao,532,1
 Cyprus,1986,25
 Czechia,117110,987
 Côte d'Ivoire,20036,120
-Democratic People's Republic of Korea,0,0
-Democratic Republic of the Congo,10840,276
+North Korea,0,0
+Dem. Rep. Congo,10840,276
 Denmark,32422,669
 Djibouti,5424,61
 Dominica,32,0
@@ -169,7 +169,7 @@ Poland,125816,3004
 Portugal,86664,2080
 Puerto Rico,53671,730
 Qatar,127985,220
-Republic of Korea,24703,433
+South Korea,24703,433
 Republic of Moldova,62151,1461
 Romania,155283,5411
 Russia,1312310,22722
@@ -195,7 +195,7 @@ Sint Maarten,699,22
 Slovakia,19851,61
 Slovenia,8665,142
 Solomon Islands,2,0
-Somalia,3864,99
+Somaliland,3864,99
 South Africa,692471,17780
 South Sudan,2787,55
 Spain,861112,32929
@@ -204,7 +204,7 @@ Sudan,13685,836
 Suriname,5035,107
 Sweden,98451,5894
 Switzerland,60230,1793
-Syrian Arab Republic,4718,224
+Syria,4718,224
 Tajikistan,10222,79
 Thailand,3641,59
 United Kingdom,603720,42825
