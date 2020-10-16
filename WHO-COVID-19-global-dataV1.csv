@@ -23,7 +23,7 @@ Belize,2496,36
 Benin,2411,41
 Bermuda,184,9
 Bhutan,309,0
-Bolivia (Plurinational State of),138463,8292
+Bolivia,138463,8292
 "Bonaire, Sint Eustatius and Saba",148,2
 Bosnia and Herzegovina,30645,921
 Botswana,3219,18
@@ -97,7 +97,7 @@ Hungary,38577,968
 Iceland,3526,10
 India,7120538,109150
 Indonesia,333449,11844
-Iran (Islamic Republic of),500075,28544
+Iran,500075,28544
 Iraq,402330,9852
 Ireland,42528,1826
 Isle of Man,345,24
@@ -134,7 +134,7 @@ Mauritania,7550,163
 Mauritius,395,10
 Mayotte,3989,43
 Mexico,814328,83642
-Micronesia (Federated States of),0,0
+Micronesia,0,0
 Monaco,234,1
 Mongolia,316,0
 Montenegro,13986,202
@@ -153,7 +153,7 @@ Niger,1201,69
 Nigeria,60266,1115
 Niue,0,0
 North Macedonia,20937,792
-Northern Mariana Islands (Commonwealth of the),77,2
+Northern Mariana Islands,77,2
 Norway,15221,275
 Oman,105890,1038
 Other,741,13
@@ -207,7 +207,7 @@ Switzerland,60230,1793
 Syrian Arab Republic,4718,224
 Tajikistan,10222,79
 Thailand,3641,59
-The United Kingdom,603720,42825
+United Kingdom,603720,42825
 Timor-Leste,28,0
 Togo,1940,49
 Tokelau,0,0
@@ -227,8 +227,8 @@ United States of America,7636803,212804
 Uruguay,2268,50
 Uzbekistan,61205,507
 Vanuatu,0,0
-Venezuela (Bolivarian Republic of),82453,691
-Viet Nam,1109,35
+Venezuela,82453,691
+Vietnam,1109,35
 Wallis and Futuna,0,0
 Yemen,2056,596
 Zambia,15458,336
