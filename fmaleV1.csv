@@ -1,0 +1,78 @@
+Country code,Country,Case & death data by sex?,Cases date,Cases where sex-disaggregated data is available,Cases (% male),Cases (% female),Deaths date,Deaths where sex-disaggregated data is available,Deaths (% male),Deaths (% female),Deaths in confirmed cases date,Proportion of deaths in confirmed cases (male),Proportion of deaths in confirmed cases (female),Proportion of deaths in confirmed cases (Male:female ratio),Source
+AF,Afghanistan,Yes,2020/09/29,38374.0,70.13,29.87,2020/09/29,1358.0,74.74%,25.26%,2020/09/29,3.77%,2.99%,1.26,http://covid.moph-dw.org/#/
+AL,Albania,Yes,2020/09/29,13518.0,48,52,2020/09/29,384.0,67%,33%,2020/09/29,3.97%,1.8%,2.2,https://coronavirus.al/statistika/
+AR,Argentina,Yes,2020/09/28,720930.0,50.8,49.2,2020/08/31,8597.0,57%,43%,2020/08/31,2.21%,1.71%,1.3,https://www.argentina.gob.ar/salud/coronavirus-COVID-19/sala-situacion
+AU,Australia,Yes,2020/10/01,26994.0,48.61,51.39,2020/10/01,860.0,48.6%,51.4%,2020/10/01,3.19%,3.19%,1.0,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers
+AT,Austria,Yes,2020/09/28,44607.0,52,48,2020/09/28,775.0,57%,43%,2020/09/28,1.9%,1.56%,1.22,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html
+BD,Bangladesh,Yes,2020/09/28,360555.0,71,29,2020/09/28,5193.0,77%,23%,2020/09/28,1.56%,1.14%,1.37,https://covid19bd.idare.io/
+BE,Belgium,Yes,2020/09/29,116680.0,42.94,57.06,2020/09/28,9976.0,47.27%,52.73%,2020/09/28,9.41%,7.9%,1.19,https://epistat.wiv-isp.be/Covid/covid-19.html
+BZ,Belize,Yes,2020/09/28,1891.0,54.36,45.64,2020/09/28,24.0,62.5%,37.5%,2020/09/28,1.46%,1.04%,1.4,https://www.facebook.com/Belizehealth/
+BT,Bhutan,Yes,2020/09/29,280.0,66.79,33.21,2020/08/04,,0%,0%,2020/08/04,,,1.0,https://www.facebook.com/MoHBhutan
+BA,Bosnia and Herzegovina,Yes,2020/09/01,12710.0,52,48,2020/09/01,354.0,66%,34%,2020/09/01,3.54%,1.98%,1.78,https://covid-19.ba/
+BF,Burkina Faso,Yes,2020/09/26,2028.0,66.42,33.58,2020/08/25,55.0,74.51%,25.49%,2020/08/25,4.63%,3%,1.54,https://lefaso.net/spip.php?article99598
+CV,Cabo Verde,Yes,2020/09/29,5817.0,49.17,50.83,2020/09/29,59.0,62.71%,37.29%,2020/09/29,1.29%,0.74%,1.74,https://covid19.cv/
+KH,Cambodia,Yes,2020/09/21,275.0,80.36,19.64,2020/09/21,,,,2020/09/21,,,1.0,https://www.who.int/docs/default-source/wpro---documents/countries/cambodia/covid-19/covid-19-joint-who-moh-sitrep-12.pdf?sfvrsn=a3acf7bb_2
+CA,Canada,Yes,2020/09/28,457149.0,44.06,55.95,2020/09/28,9210.0,45.9%,54.1%,2020/09/28,2.1%,1.95%,1.08,https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html#a7
+CL,Chile,Yes,2020/09/28,496412.0,50.95,49.05,2020/05/07,294.0,60%,40%,2020/05/07,1.28%,0.97%,1.32,https://www.gob.cl/coronavirus/cifrasoficiales/
+CN,China,Yes,2020/02/28,55924.0,51,49,2020/02/28,2114.0,64%,36%,2020/02/28,4.7%,2.8%,1.68,http://www.nhc.gov.cn/xcs/yqtb/202009/a2f6fc89b8c545ecb806a86b6bc5437a.shtml
+CO,Colombia,Yes,2020/10/05,862158.0,50.6,49.4,2020/10/05,26844.0,64.17%,35.83%,2020/10/05,3.94%,2.26%,1.75,https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+CR,Costa Rica,Yes,2020/09/28,73714.0,52.36,47.65,2020/09/28,861.0,60.98%,39.02%,2020/09/28,1.36%,0.96%,1.42,https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19
+CZ,Czech Republic,Yes,2020/09/30,59981.0,51.69,48.31,2020/09/27,620.0,59.03%,40.97%,2020/09/15,1.41%,1.17%,1.21,https://onemocneni-aktualne.mzcr.cz/covid-19
+DK,Denmark,Yes,2020/09/15,20571.0,46,54,2020/09/29,650.0,56.46%,43.54%,2020/09/15,3.76%,2.49%,1.51,https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
+DO,Dominican Republic,Yes,2020/08/28,93732.0,51,49,2020/08/30,1710.0,66%,34%,2020/08/28,2.37%,1.26%,1.88,https://www.msp.gob.do/web/?page_id=6948#1586785071781-f0e8c057-f5f4
+EC,Ecuador,Yes,2020/10/01,138584.0,52.89,47.11,2020/09/15,10922.0,66.52%,33.48%,2020/09/15,11.51%,6.55%,1.76,https://public.tableau.com/profile/direcci.n.nacional.de.vigilancia.epidemiol.gica.msp#!/vizhome/COVID19ecu_MSP_DNVE/COVID-19MSP
+,England,Yes,2020/09/22,343317.0,44.37,55.63,2020/09/22,41733.0,56.58%,43.42%,2020/09/22,15.5%,9.49%,1.63,https://www.gov.uk/government/publications/national-covid-19-surveillance-reports
+EE,Estonia,Yes,2020/09/29,3233.0,47.23,52.77,2020/09/29,64.0,45.31%,54.69%,2020/09/29,1.9%,2.05%,0.93,https://koroonakaart.ee/en
+SZ,Eswatini,Yes,2020/08/31,4384.0,47,53,2020/09/28,107.0,59.81%,40.19%,2020/08/31,2.71%,1.47%,1.85,https://datastudio.google.com/embed/u/0/reporting/b847a713-0793-40ce-8196-e37d1cc9d720/page/2a0LB
+FI,Finland,Yes,2020/08/31,8086.0,49,51,2020/09/28,342.0,48%,52%,2020/08/31,4.02%,4.29%,0.94,https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta
+FR,France,Yes,2020/03/15,6378.0,47,53,2020/09/24,20857.0,58.79%,41.21%,2020/03/15,3.11%,2%,1.55,https://dc-covid.site.ined.fr/en/data/france/
+DE,Germany,Yes,2020/09/30,288218.0,49.71,50.29,2020/09/29,9456.0,55.46%,44.54%,2020/09/29,3.66%,2.91%,1.26,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Sept_2020/2020-09-28-en.pdf?__blob=publicationFile
+GR,Greece,Yes,2020/09/28,16616.0,55.75,44.25,2020/09/28,383.0,62.92%,37.08%,2020/09/28,2.6%,1.93%,1.35,https://eody.gov.gr/0928_briefing_covid19/
+GT,Guatemala,Yes,2020/10/04,92088.0,58.74,41.26,2020/10/04,3205.0,71.98%,28.02%,2020/10/04,4.27%,2.36%,1.8,https://tablerocovid.mspas.gob.gt/
+HT,Haiti,Yes,2020/09/27,8740.0,58,42,2020/09/27,229.0,62.01%,37.99%,2020/09/27,2.8%,2.37%,1.18,https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-09-2020.pdf
+IN,India,Yes,2020/09/01,2877791.0,65,35,2020/05/21,3711.0,64%,36%,2020/04/06,2.62%,3.07%,0.85,https://ncdc.gov.in/dashboard.php
+ID,Indonesia,Yes,2020/10/01,287008.0,51.2,48.8,2020/10/01,10740.0,58.6%,41.4%,2020/10/01,4.28%,3.17%,1.35,https://covid19.go.id/peta-sebaran
+IR,Iran,Yes,2020/03/17,14991.0,57,43,2020/03/17,853.0,59%,41%,2020/03/17,5.89%,5.43%,1.09,http://corona.behdasht.gov.ir/
+IL,Israel,Yes,2020/09/30,236877.0,52.34,47.66,2020/09/27,1382.0,54.63%,45.37%,2020/08/30,0.8%,0.73%,1.1,https://datadashboard.health.gov.il/COVID-19/?utm_source=go.gov.il&utm_medium=referral
+IT,Italy,Yes,2020/09/22,298985.0,47.5,52.5,2020/09/22,35727.0,57.4%,42.6%,2020/09/22,14.43%,9.71%,1.49,https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_22-settembre-2020.pdf
+JM,Jamaica,Yes,2020/09/28,6143.0,45.78,54.22,2020/09/28,93.0,50.54%,49.46%,2020/09/28,1.67%,1.38%,1.21,https://jamcovid19.moh.gov.jm/
+KE,Kenya,Yes,2020/09/15,36301.0,64.52,35.48,2020/09/15,634.0,74.61%,25.39%,2020/09/15,2.02%,1.25%,1.62,Ministry report obtained by APHRC from a third party
+KG,Kyrgyzstan,Yes,2020/07/16,12498.0,47,53,2020/07/16,155.0,62%,38%,2020/07/16,1.63%,0.89%,1.83,http://www.med.kg/en/informatsii-2/2095-statistics-on-covid-19-in-kyrgyzstan-as-of-july-6-2020.html
+LV,Latvia,Yes,2020/09/30,1824.0,50.88,49.12,2020/09/30,37.0,62.63%,37.37%,2020/09/30,2.5%,1.54%,1.62,https://spkc.gov.lv/lv/tavai-veselibai/aktualitate-par-jauno-koronavi
+LR,Liberia,Yes,2020/09/28,1343.0,65.3,34.7,2020/09/28,82.0,64.63%,35.37%,2020/09/28,6.04%,6.22%,0.97,https://web.facebook.com/164280647325112/photos/a.347331779019997/1098775603875607/
+LU,Luxembourg,Yes,2020/09/28,8431.0,51,49,2020/09/28,124.0,54%,46%,2020/09/28,1.56%,1.38%,1.13,https://msan.gouvernement.lu/en/dossiers/2020/corona-virus.html
+MW,Malawi,Yes,2020/09/28,5762.0,68.29,31.71,2020/09/28,179.0,77.1%,22.91%,2020/09/28,3.51%,2.24%,1.56,https://malawipublichealth.org/index.php/resources/COVID-19%20SitRep%20Updates/September%202020/20200928_Malawi%20COVID-19%20situation%20report%201.pdf/detail
+MV,Maldives,Yes,2020/09/28,10137.0,69.6,30.4,2020/09/28,31.0,58.06%,41.94%,2020/09/28,0.26%,0.42%,0.6,https://covid19.health.gov.mv/dashboard/
+MX,Mexico,Yes,2020/09/28,733717.0,51.95,48.05,2020/09/28,76603.0,64.15%,35.85%,2020/09/28,12.89%,7.79%,1.66,https://coronavirus.gob.mx/datos/
+MD,Moldova,Yes,2020/09/28,51194.0,41.37,58.63,2020/09/28,1310.0,51.53%,48.47%,2020/09/28,3.19%,2.12%,1.51,http://gismoldova.maps.arcgis.com/apps/opsdashboard/index.html#/d274da857ed345efa66e1fbc959b021b
+MN,Mongolia,Yes,2020/09/28,313.0,68.37,31.63,2020/08/04,,0%,0%,2020/08/04,,,1.0,https://covid19.mohs.mn/p/cat/post/57/
+MA,Morocco,Yes,2020/07/18,17015.0,53,47,2020/07/18,401.0,67%,33%,2020/07/18,2.98%,1.65%,1.8,https://2m.ma/fr/news/coronavirus-le-ministere-de-la-sante-fait-le-point-sur-la-situation-epidemiologique-du-royaume-video-20200718/
+MM,Myanmar,Yes,2020/09/10,2265.0,53,47,2020/09/28,226.0,64.16%,35.84%,2020/09/01,1%,0.26%,3.84,https://datastudio.google.com/u/0/reporting/445c1281-c6ea-45e4-9bc0-5d561c511354/page/I44CB
+NP,Nepal,Yes,2020/09/29,74745.0,72.93,27.07,2020/09/23,428.0,69.39%,30.61%,2020/08/13,0.35%,0.55%,0.64,https://covid19.mohp.gov.np/?fbclid=IwAR2_KRxuwxtNk7K92UnPF9Y3IVqh9ZDOzgc3l946lZJiLwtdOlHp6v6BZP8
+NL,Netherlands,Yes,2020/09/29,117459.0,43.3,56.7,2020/09/28,6393.0,54.89%,45.11%,2020/09/28,6.9%,4.33%,1.59,https://www.rivm.nl/documenten/wekelijkse-update-epidemiologische-situatie-covid-19-in-nederland
+MK,North Macedonia,Yes,2020/09/28,16800.0,50.8,49.2,2020/09/28,711.0,63.29%,36.71%,2020/09/28,5.27%,3.16%,1.67,https://gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0Dd9MY7njiNtDkPpPt8R2SeD4pW_6TO12axwKrT4CcegckY4P4Ezt43f4#/2096bd4b051b42948ac3f5747e80c3a5
+,Northern Ireland,Yes,2020/09/28,11259.0,44.78,55.22,2020/09/28,577.0,53.03%,46.97%,2020/09/28,6.07%,4.36%,1.39,https://app.powerbi.com/view?r=eyJrIjoiZGYxNjYzNmUtOTlmZS00ODAxLWE1YTEtMjA0NjZhMzlmN2JmIiwidCI6IjljOWEzMGRlLWQ4ZDctNGFhNC05NjAwLTRiZTc2MjVmZjZjNSIsImMiOjh9
+NO,Norway,Yes,2020/09/15,12277.0,51,49,2020/09/15,265.0,53.21%,46.79%,2020/09/15,2.25%,2.06%,1.09,https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/
+PK,Pakistan,Yes,2020/08/18,289832.0,74,26,2020/08/18,6190.0,74%,26%,2020/08/18,2.14%,2.12%,1.01,http://covid.gov.pk/stats/pakistan
+PA,Panama,Yes,2020/08/14,79402.0,54,46,2020/06/05,373.0,68%,32%,2020/06/05,2.78%,1.89%,1.47,http://minsa.b-cdn.net/sites/default/files/publicacion-general
+PY,Paraguay,Yes,2020/09/28,38684.0,53.52,46.48,2020/09/28,782.0,65.22%,34.78%,2020/09/28,2.46%,1.51%,1.63,https://www.mspbs.gov.py/reporte-covid19.html
+PE,Peru,Yes,2020/08/04,439890.0,56,44,2020/09/28,32324.0,69.9%,30.1%,2020/08/04,5.76%,3.02%,1.91,https://covid19.minsa.gob.pe/sala_situacional.asp
+PH,Philippines,Yes,2020/09/28,307288.0,55.27,44.73,2020/09/28,5381.0,60.53%,39.47%,2020/09/28,1.92%,1.55%,1.24,https://ncovtracker.doh.gov.ph/
+PT,Portugal,Yes,2020/09/28,74029.0,45.32,54.68,2020/09/28,1957.0,50.33%,49.67%,2020/09/28,2.94%,2.4%,1.22,https://covid19.min-saude.pt/wp-content/uploads/2020/09/210_DGS_boletim_20200928.pdf
+IE,Republic of Ireland,Yes,2020/09/26,34958.0,44.89,55.11,2020/09/26,1802.0,49.5%,50.5%,2020/09/26,5.68%,4.72%,1.2,https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/epidemiologyofcovid-19inireland/COVID-19_Daily_epidemiology_report_(NPHET)_20200928%20-%20Website.pdf
+RO,Romania,Yes,2020/09/27,123944.0,46.46,53.54,2020/09/27,4748.0,59.86%,40.14%,2020/09/27,4.94%,2.87%,1.72,https://www.cnscbt.ro/index.php/analiza-cazuri-confirmate-covid19/2001-raport-saptamanal-episaptamana38/file
+,Scotland,Yes,2020/09/27,27665.0,42,58,2020/09/13,4236.0,49.62%,50.38%,2020/09/13,23.25%,15.72%,1.48,https://beta.isdscotland.org/find-publications-and-data/population-health/covid-19/covid-19-statistical-report/9-september-2020/dashboard/
+SI,Slovenia,Yes,2020/09/28,5487.0,48.02,51.98,2020/09/28,138.0,39.86%,60.14%,2020/09/28,2.09%,2.91%,0.72,https://www.nijz.si/sl/dnevno-spremljanje-okuzb-s-sars-cov-2-covid-19
+ZA,South Africa,Yes,2020/09/29,666764.0,41.7,58.3,2020/07/01,2745.0,53%,47%,2020/07/01,2.13%,1.44%,1.48,https://www.nicd.ac.za/diseases-a-z-index/covid-19/surveillance-reports/
+KR,South Korea,Yes,2020/09/29,23699.0,45.94,54.06,2020/09/29,407.0,53.07%,46.93%,2020/09/29,1.98%,1.49%,1.33,http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=
+ES,Spain,Yes,2020/09/09,688974.0,46.62,53.38,2020/05/21,20518.0,57%,43%,2020/05/21,10.87%,6.3%,1.73,https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/_layouts/15/WopiFrame.aspx?sourcedoc=/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Documents/INFORMES/Informes%20COVID-19/Informe%20n%C2%BA%2043.Situaci%C3%B3n%20de%20COVID-19%20en%20Espa%C3%B1a%20a%209%20de%20septiembre%20de%202020.pdf&action=default
+SE,Sweden,Yes,2020/09/29,92466.0,43.45,56.55,2020/09/29,5890.0,54.7%,45.3%,2020/09/29,8.02%,5.1%,1.57,https://fohm.maps.arcgis.com/apps/opsdashboard/index.html#/68d4537bf2714e63b646c37f152f1392
+CH,Switzerland,Yes,2020/09/28,52615.0,48.13,51.87,2020/09/28,1779.0,57.56%,42.44%,2020/09/28,4.04%,2.77%,1.46,https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#1164290551
+TH,Thailand,Yes,2020/09/22,3511.0,56.11,43.89,2020/09/22,59.0,76.27%,23.73%,2020/09/22,2.28%,0.91%,2.51,https://ddc.moph.go.th/viralpneumonia/eng/file/situation/situation-no184-070763.pdf
+TN,Tunisia,Yes,2020/08/30,3492.0,47,53,2020/08/30,77.0,68.75%,31.25%,2020/08/30,3.24%,1.29%,2.49,https://www.onmne.tn/fr/images/bulletin-covid-19-31-08-2020.pdf
+TR,Turkey,Yes,2020/09/27,315436.0,51,49,2020/09/27,7997.0,62.39%,37.61%,2020/09/27,3.1%,1.95%,1.59,https://sbsgm.saglik.gov.tr/TR66424/covid-19-situation-report-turkey.html
+US,USA,Yes,2020/09/29,5249876.0,48.29,51.71,2020/09/30,194087.0,54.05%,45.95%,2020/09/30,4.14%,3.29%,1.26,https://www.cdc.gov/covid-data-tracker/index.html#demographics
+UG,Uganda,Yes,2020/09/27,4904.0,72.7,27.3,2020/09/27,31.0,67.74%,32.26%,2020/09/27,0.59%,0.75%,0.79,https://covid19.gou.go.ug/statistics.html
+UA,Ukraine,Yes,2020/09/29,204822.0,41.59,58.41,2020/09/29,4066.0,53.84%,46.16%,2020/09/29,2.57%,1.57%,1.64,https://phc.org.ua/kontrol-zakhvoryuvan/inshi-infekciyni-zakhvoryuvannya/koronavirusna-infekciya-covid-19
+VN,Vietnam,Yes,2020/09/24,1069.0,50.33,49.67,2020/09/24,35.0,37.14%,62.86%,2020/09/24,2.42%,4.14%,0.58,https://www.who.int/docs/default-source/wpro---documents/countries/viet-nam/covid-19/vnm-moh-who-covid-19-sitrep10.pdf?sfvrsn=4dfc688c_2
+,Wales,Yes,2020/09/28,23569.0,40.61,59.39,2020/09/28,1615.0,56.04%,43.96%,2020/09/28,9.46%,5.07%,1.86,https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary
