@@ -13,12 +13,12 @@
 </head>
 <body>
 
-<h1>An Example of Multiple Visualisations</h1>
+<h1>How is Coronavirus Affecting the World?</h1>
 
-<h2>This is the first visualisation</h2>
+<h2>Coronavirus Case Distribution Globally</h2>
 <div id="choropleth_map"></div>
 
-<h2>This is the second visualisation</h2>
+<h2>Cumulative Case Over Time</h2>
 <div id="scatter_plot"></div>
 
 <script type="text/javascript">
@@ -31,7 +31,7 @@
   
   var vis2 = "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/LineChart.json";
   
-  vegaEmbed('#scatter_plot', vis2).then(function(result) {
+  vegaEmbed('#Line_Chart', vis2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
