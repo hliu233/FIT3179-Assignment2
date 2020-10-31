@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/AgeGroupV1.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Age", "type": "ordinal", "title": "Age Groups"},
+    "y": {"field": "Value", "type": "quantitative"},
+    "color": {
+      "field": "Country",
+      "type": "nominal",
+      "scale": {
+        "domain": ["ITALY", "UK", "SOUTH KOREA", "CHINA"],
+        "range": ["#e7ba52", "#c7c7c7", "#aec7e8", "#1f77b4"]
+      },
+      "title": "Country"
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Value", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
