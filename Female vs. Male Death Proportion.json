@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A population pyramid for Coronavirus Distribution between gender amonge different countries.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/FmaleV2.csv"
+  },
+  "width": 400,
+  "height": 200,
+  "mark": "bar",
+  "title": "Death Percentage between genders",
+  "encoding": {
+    "y": {"field": "Country", "axis": null, "sort": "descending"},
+    "x": {
+      "aggregate": "sum",
+      "field": "Value",
+      "title": "Death Percentage",
+      "axis": {"format": "s"}
+    },
+    "color": {
+      "field": "Gender",
+      "scale": {"range": ["#675193", "#ca8861"]},
+      "legend": {"orient": "top", "title": null}
+    }
+  },
+  "config": {"view": {"stroke": null}, "axis": {"grid": false}}
+}
