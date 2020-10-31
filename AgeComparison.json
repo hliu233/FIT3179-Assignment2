@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/AgeGroupV1.csv"
   },
   "mark": "bar",
-  "width":450,
+  "width":420,
   "encoding": {
     "x": {"field": "Age", "type": "ordinal", "title": "Age Groups"},
     "y": {"field": "Value", "type": "quantitative"},
