@@ -123,6 +123,7 @@
 <script type="text/javascript">
   var specVis1 =  "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/ChoroplethMapV1.json";
   var specVis2= "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/LineChart.json";
+  var specVis3= "https://github.com/hliu233/FIT3179-Assignment2/blob/main/FemalevsMale.json";
 
   vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -132,7 +133,7 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  vegaEmbed('#vis3', specVis1, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis3', specVis3, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
