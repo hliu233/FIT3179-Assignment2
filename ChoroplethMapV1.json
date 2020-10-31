@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "COVID-19 Cumulative_deaths",
-  "width": 500,
-  "height": 600,
+  "width": 400,
+  "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/WorldMap.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
