@@ -1,10 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Cumulative Cases over time",
-  "width":300,
-  "height":300,
+  "width": 400,
+  "height": 300,
   "data": {
-    "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/TrendOverview.csv"
+    "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/TrendCountry.csv"
   },
   "params": [
     {
@@ -17,7 +17,9 @@
           "China",
           "Italy",
           "The United Kingdom",
-          "United States of America"
+          "United States of America",
+          "India",
+          "Brazil"
         ],
         "labels": [
           "Show All",
@@ -25,7 +27,9 @@
           "China",
           "Italy",
           "The United Kingdom",
-          "United States of America"
+          "United States of America",
+          "India",
+          "Brazil"
         ],
         "name": "Country Selection: "
       }
@@ -36,15 +40,19 @@
       "filter": "Country_Selection == null || datum.Country == Country_Selection"
     }
   ],
-  "mark": {"type": "line", "point": {"filled": false, "fill": "white"}},
+  "mark": {"type": "line"},
   "encoding": {
-    "x": {"timeUnit": "yearmonth", "field": "Date_reported"},
-    "y": {"field": "Cumulative_cases", "type": "quantitative"},
-    "color": {"field": "Country", "type": "nominal"},
+    "x": {"timeUnit": "yearmonthdate", "field": "Date_reported"},
+    "y": {
+      "aggregate": "sum",
+      "field": " Cumulative_cases",
+      "type": "quantitative"
+    },
+    "color": {"field": " Country", "type": "nominal"},
     "tooltip": [
-      {"field": "Country", "type": "nominal"},
-      {"field": "New_cases", "type": "quantitative", "format": ","},
-      {"field": "Cumulative_cases", "type": "quantitative", "format": ","}
+      {"field": " Country", "type": "nominal"},
+      {"field": " New_cases", "type": "quantitative", "format": ","},
+      {"field": " Cumulative_cases", "type": "quantitative", "format": ","}
     ]
   },
   "config": {}
