@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Cumulative Cases over time",
-  "width": 300,
-  "height": 300,
+  "width":300,
+  "height":300,
   "data": {
     "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/TrendCountry.csv"
   },
@@ -43,16 +43,12 @@
   "mark": {"type": "line"},
   "encoding": {
     "x": {"timeUnit": "yearmonthdate", "field": "Date_reported"},
-    "y": {
-      "aggregate": "sum",
-      "field": " Cumulative_cases",
-      "type": "quantitative"
-    },
-    "color": {"field": " Country", "type": "nominal"},
+    "y": {"aggregate":"sum","field": "Cumulative_cases", "type": "quantitative"},
+    "color": {"field": "Country", "type": "nominal"},
     "tooltip": [
-      {"field": " Country", "type": "nominal"},
-      {"field": " New_cases", "type": "quantitative", "format": ","},
-      {"field": " Cumulative_cases", "type": "quantitative", "format": ","}
+      {"field": "Country", "type": "nominal"},
+      {"field": "New_cases", "type": "quantitative", "format": ","},
+      {"field": "Cumulative_cases", "type": "quantitative", "format": ","}
     ]
   },
   "config": {}
