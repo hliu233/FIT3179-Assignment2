@@ -5,7 +5,7 @@
     "url": "https://raw.githubusercontent.com/hliu233/FIT3179-Assignment2/main/FmaleV2.csv"
   },
   "width": 500,
-  "height": 200,
+  "height": 400,
   "mark": "bar",
   "title": "Death Percentage between genders",
   "encoding": {
